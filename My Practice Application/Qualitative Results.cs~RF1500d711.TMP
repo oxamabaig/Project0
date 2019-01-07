@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace My_Practice_Application
+{
+    public partial class Qualitative_Results : Form
+    {
+        bool newChecking7, newChecking10, newChecking6;
+        public Qualitative_Results(bool checking7, bool checking10, bool checking6)
+        {
+            InitializeComponent();
+            bool newChecking7 = checking7; bool newChecking10 = checking10; bool newChecking6 = checking6;
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            SecondPage backoption = new SecondPage(); backoption.Show(); this.Visible = false;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        public void chart2_Click(object sender, EventArgs e)
+        {
+            chart2.Enabled = false;
+        }
+
+        public void chart1_Click(object sender, EventArgs e)
+        {
+            chart1.Enabled = false;
+            
+        }
+
+        public void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            textBox1.Enabled = false;
+         }
+
+        public void label1_Click(object sender, EventArgs e)
+        {
+            label1.Enabled = false;
+        }
+    }
+}

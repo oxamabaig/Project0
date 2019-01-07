@@ -1,0 +1,42 @@
+D:\Extras\C# Projects\My Practice Application\My Practice Application\bin\Debug\My Practice Application.exe
+D:\Extras\C# Projects\My Practice Application\My Practice Application\bin\Debug\My Practice Application.exe.config
+D:\Extras\C# Projects\My Practice Application\My Practice Application\bin\Debug\ExcelDataReader.dll
+D:\Extras\C# Projects\My Practice Application\My Practice Application\bin\Debug\ExcelLibrary.dll
+D:\Extras\C# Projects\My Practice Application\My Practice Application\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\Extras\C# Projects\My Practice Application\My Practice Application\bin\Debug\ExcelDataReader.xml
+D:\Extras\C# Projects\My Practice Application\My Practice Application\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My Practice Application.csproj.ResolveComReference.cache
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Any_of_Them.resources
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.FirstPage.resources
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Properties.Resources.resources
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Qualitative_Results.resources
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Quantitative_Results.resources
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.SecondPage.resources
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My Practice Application.csproj.GenerateResource.Cache
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My Practice Application.exe.licenses
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My Practice Application.exe
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My Practice Application.pdb
+D:\Extras\C# Projects\My Practice Application\My Practice Application\bin\Debug\My Practice Application.pdb
+D:\Extras\C# Projects\My Practice Application\My Practice Application\obj\Debug\My Practice Application.csprojResolveAssemblyReference.cache
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\My Practice Application.exe.config
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\My Practice Application.exe
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\My Practice Application.pdb
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\ExcelDataReader.dll
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\ExcelLibrary.dll
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\ExcelDataReader.xml
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My Practice Application.csprojFakesResolveAssemblyReference.cache
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My Practice Application.csproj.ResolveComReference.cache
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Any_of_Them.resources
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.FirstPage.resources
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Graph2.resources
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Graph3.resources
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Graphs.resources
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.Properties.Resources.resources
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My_Practice_Application.SecondPage.resources
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My Practice Application.csproj.GenerateResource.Cache
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My Practice Application.exe.licenses
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My Practice Application.exe
+D:\Lectures\Semester 5\Probability and Statistics\Practice\My Practice Application\My Practice Application\obj\Debug\My Practice Application.pdb
